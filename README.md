@@ -2,6 +2,12 @@
 
 Final project of 'Intro to AI Platform and Lab'
 
+
+
+https://github.com/Woojin-Oh/Vehichle-Stationary-Detection/assets/123630873/e3bf90e3-ea79-4ced-86b0-fb983ec388f9
+
+
+
 ![슬라이드12](https://github.com/Woojin-Oh/Vehichle-Stationary-Detection/assets/123630873/ba9c995b-298c-4247-8128-ebdf0db3a346)
 ![슬라이드13](https://github.com/Woojin-Oh/Vehichle-Stationary-Detection/assets/123630873/c3ca77c5-4ff1-4771-ac41-53174da997ba)
 ![슬라이드14](https://github.com/Woojin-Oh/Vehichle-Stationary-Detection/assets/123630873/fb9ba9e6-32ba-4418-b41d-c09ebe0289b0)
